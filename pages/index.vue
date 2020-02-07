@@ -23,6 +23,7 @@ export default {
       Footer
   }
 }
+//Banner.init();
 </script>
 
 <style>
